@@ -1,14 +1,11 @@
 fastapi==0.104.1
 uvicorn[standard]==0.24.0
 python-multipart==0.0.6
-langchain==0.0.352
-langchain-community==0.0.13
-sentence-transformers==2.2.2
-chromadb==0.4.18
 groq==0.4.1
 pandas==2.1.4
 openpyxl==3.1.2
 PyPDF2==3.0.1
-pdfplumber==0.10.3
 reportlab==4.0.7
-Pillow==10.1.0
+sentence-transformers==2.2.2
+numpy==1.24.3
+scikit-learn==1.3.2
